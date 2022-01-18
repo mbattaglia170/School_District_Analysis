@@ -7,7 +7,7 @@ We have found minimal changes after excluding the reading and math score of Thom
 Here is a picture of scores with everyone included 
 
 vs. the second time we completed the analysis without the reading and math score of Thomas High School ninth graders.
-
+https://github.com/mbattaglia170/School_District_Analysis/blob/main/New_Metrics.png 
 
 
 #Summary
