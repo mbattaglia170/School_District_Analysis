@@ -5,7 +5,7 @@ The purpose of this analysis was to identify cheating conducted by the ninth gra
 #Results
 We have found minimal changes after excluding the reading and math score of Thomas High School ninth graders.
 Here is a picture of scores with everyone included 
-
+https://github.com/mbattaglia170/School_District_Analysis/blob/main/Original_Metrics.png
 vs. the second time we completed the analysis without the reading and math score of Thomas High School ninth graders.
 https://github.com/mbattaglia170/School_District_Analysis/blob/main/New_Metrics.png 
 
